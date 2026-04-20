@@ -1,0 +1,19 @@
+Project Cycle 2 Summary
+
+Proportion Analysis (SadOrHopeless):
+Sample proportion (p̂): 0.29996
+95% CI: (0.2923, 0.3076)
+p-value: 0.9926
+Conclusion: Fail to reject H0. No significant difference from 0.30.
+
+Mean Analysis (BMIPCT):
+Sample mean (x̄): 64.82
+95% CI: (64.35, 65.29)
+p-value: 0.4564
+Conclusion: Fail to reject H0. No significant difference from 65.
+
+Additional Insight:
+A slight increase in sadness proportion is observed as BMI percentile increases, but the difference is small and was not formally tested.
+
+Overall Conclusion:
+Both analyses suggest that the observed values are very close to the benchmark values, with no statistically significant differences detected.
