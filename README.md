@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=NTUT+Statistics+Practicum;Project+Cycle+2;SadOrHopeless+%26+BMI+Analysis;One-Sample+Inference+%26+Chi-Square+Test)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=NTUT+Statistics(II)+Practice;Project+Cycle+2;SadOrHopeless+%26+BMI+Analysis;One-Sample+Inference+%26+Chi-Square+Test)](https://git.io/typing-svg)
 
 <h1 align="center">📊 Project Cycle 2 - One-Sample Inference</h1>
 
@@ -16,7 +16,7 @@
 ---
 
 ## 👥 Group Information
-- **Group Number:** （填你的組別）
+- **Group Number:** 4
 - **Members:**
   - 王靖慈 112A50033 (Github ID: t112a50033, Emma2242)
   - 許皓崴 112370236 (Github ID: tymfmjs6qr-bot)
@@ -121,16 +121,27 @@ Although EDA suggests a slight trend, statistical tests do not confirm a strong 
     project-cycle-2/
     ├── data/
     │   ├── raw/
+    |   |   └── YRBS_2007.csv
     │   └── processed/
+    |       ├── bmi_cleaned.csv
+    |       ├── joint_cleaned.csv
+    |       └── sad_cleaned.csv
     ├── notebooks/
     │   ├── 01_data_check.ipynb
-    │   ├── 02_eda.ipynb
+    │   ├── 02_EDA.ipynb
     │   └── 03_inference.ipynb
     ├── outputs/
     │   ├── figures/
-    │   ├── tables/
-    │   └── summary/
+    |   |   ├── bmi_boxplot.png
+    |   |   ├── bmi_group_bar.png
+    |   |   ├── bmi_histogram.png
+    |   |   └── sad_bar_chart.png
+    │   ├── summary/
+    |   |   └── final_summary.txt
+    │   └── tables/
+    |       └── bmi_group_summary.cvs
     ├── report/
+    |   └── one_page_summary.pdf
     ├── references/
     └── README.md
 
