@@ -143,6 +143,9 @@ Although EDA suggests a slight trend, statistical tests do not confirm a strong 
     ├── report/
     |   └── one_page_summary.pdf
     ├── references/
+    │   ├── variable_definitions.md
+    │   ├── recoding_rules.md
+    |   └── benchmark_values.md
     └── README.md
 
 ---
