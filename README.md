@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=NTUT+Statistics(II)+Practice;Project+Cycle+2;SadOrHopeless+&+BMI+Analysis;One-Sample+Inference+&+Chi-Square+Test)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=NTUT+Statistics(II)+Practice;Project+Cycle+2;SadOrHopeless+%26+BMI+Analysis;One-Sample+Inference+%26+Chi-Square+Test)](https://git.io/typing-svg)
 
 <h1 align="center">📊 Project Cycle 2 - One-Sample Inference</h1>
 
